@@ -15,8 +15,8 @@ df.head()
 df.isnull().sum()
 df=df.drop(['salary'], axis = 1)
 df.isnull().sum()
-# sns.countplot(x= 'status', data=df)
-# sns.countplot(x='status', hue='gender', data=df)
+sns.countplot(x= 'status', data=df)
+sns.countplot(x='status', hue='gender', data=df)
 #convert categorical variable into indicator variables
 workexp = pd.get_dummies(df['workex'])
 workexp

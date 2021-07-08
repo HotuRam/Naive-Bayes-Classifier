@@ -1,6 +1,6 @@
 # Naive-Bayes-Classifier
 
-Explaination:
+## Explaination:
 
  <img align="left" alt="GIF" src="https://github.com/HotuRam/Naive-Bayes-Classifier/blob/main/images/Screenshot%20(365).png?raw=true" width="600" height="350" />
  <br />
@@ -20,7 +20,7 @@ Explaination:
 <br />
 <br />
 <br />
-- Insights of working code
+## - Insights of working code
 
 <br />
 <br />
